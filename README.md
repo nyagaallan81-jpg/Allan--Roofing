@@ -1,5 +1,4 @@
-Here is the complete, responsive HTML and CSS code for the Allan Roofing landing page. It is designed as a single-page template that you can save and open directly in your browser.
-The contact buttons are pre-configured to launch a phone call or open a WhatsApp chat immediately when clicked on a mobile device.
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
